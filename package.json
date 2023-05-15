@@ -1,0 +1,15 @@
+{
+  "name": "7z-win",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "author": "小莫",
+  "license": "ISC",
+  "files": [
+    "7z.*"
+  ],
+  "repository": "GlossMod/7z-win",
+  "devDependencies": {
+    "@types/node": "^20.1.4"
+  }
+}
