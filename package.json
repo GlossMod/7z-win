@@ -1,14 +1,19 @@
 {
   "name": "7z-win",
-  "version": "1.0.0",
+  "version": "1.0.7",
   "description": "",
-  "main": "index.ts",
+  "main": "index.js",
   "author": "小莫",
   "license": "ISC",
   "files": [
-    "7z.*"
+    "win",
+    "*.d.ts"
   ],
   "repository": "GlossMod/7z-win",
+  "keywords": [
+    "7zip",
+    "7z"
+  ],
   "devDependencies": {
     "@types/node": "^20.1.4"
   }
